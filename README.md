@@ -28,11 +28,11 @@ To set up and run the login page project locally, follow these steps:
 - Install Node.js if not already installed on your machine.
 - Navigate to the project directory in your terminal or command prompt.
 - Install the required dependencies by running the following command:
-('npm install')
+npm install
 - Configure Firebase by creating a new Firebase project and obtaining the necessary credentials (API key, project ID, etc.).
 - Update the Firebase configuration in the appropriate files (e.g., firebase.js) with your own credentials.
 - Start the local development server by running the following command
-('npm start')
+npm start
 - Open a web browser and visit http://localhost:3000 to see the login page in action.
 
 ## Deployment
@@ -40,7 +40,7 @@ To deploy the login page to a live environment, follow these steps:
 
 - Set up a hosting service (e.g., Firebase Hosting, Netlify, Heroku) to host your web application.
 - Build the project by running the following command:
-('npm run build')
+npm run build
 
 - To view project use this link--https://login-page-52d56.web.app/
 
